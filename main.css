@@ -1,0 +1,17 @@
+body{
+    padding:20px;
+    margin:20px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: blanchedalmond;
+}
+
+#ending_range{
+    width:50%;
+    margin:20px
+}
+
+#guess{
+    width:50%;
+    margin:20px
+}
