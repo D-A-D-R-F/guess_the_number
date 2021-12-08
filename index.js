@@ -5,8 +5,7 @@ form.onclick = function myFunction(){
     document.getElementById("num").innerHTML = num
     document.getElementById("form-div").style.display = "none"
     var guess = prompt("Your Guess:");
-    console.log(num)
-
+    
 
     if (guess === ""){
         alert("Please input a number.")
